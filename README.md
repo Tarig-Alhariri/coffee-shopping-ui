@@ -15,3 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # coffee-shopping-ui
+![Screenshot_1725288624](https://github.com/user-attachments/assets/d97a6808-ef0f-455c-8dd7-8f1f734df52d)
